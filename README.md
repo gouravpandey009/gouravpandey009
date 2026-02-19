@@ -1,4 +1,4 @@
-# About Me:
+# About Me
 Currently working as a Software Development Engineer (SDE) & DSA Mentor at Sunstone, building scalable applications and mentoring students to become interview-ready software engineers.<br><br> Worked as a Full Stack Developer at Brihat Infotech, developing production-grade web platforms and optimizing backend systems for high performance and scalability.<br><br>Also worked as a Full Stack Developer at DrPashu Technologies, where I built real-time applications using React, Django, PostgreSQL, and AWS, including live video consultation systems.<br><br>Strong expertise in full-stack development, backend architecture, real-time systems, and clean scalable code.<br><br>Passionate about Data Structures & Algorithms and teaching problem-solving from fundamentals to advanced interview patterns.<br><br>Ask me about MERN stack, Next.js, backend optimization, JWT authentication, system design basics, and DSA.<br><br>Fun fact: I build projects, teach students, and solve DSA problems every single day.<br>
 
 
