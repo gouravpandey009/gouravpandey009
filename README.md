@@ -1,103 +1,63 @@
-# 👋 Hi, I'm Gourav Pandey
+# Gourav Pandey
 
-🚀 Software Development Engineer | Backend Engineer | DSA Mentor
-💡 Building scalable systems + Teaching students to crack tech interviews
-
----
-
-## 🧑‍💻 About Me
-
-* 🔭 Currently working as **SDE @ Sunstone**
-* ⚙️ Backend-focused (Django, Node.js, FastAPI)
-* 📈 Built **real-time systems + SaaS platforms**
-* 🎯 Passionate about **DSA + System Design**
-* 💬 Ask me about **MERN, Backend, JWT, Scaling, DSA**
+Software Development Engineer | Backend Engineer | DSA Mentor
 
 ---
 
-## 🌐 Connect with Me
+## About
 
-<p align="left">
-<a href="https://linkedin.com/in/gouravpandey09" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="mailto:pandeygourav09@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-<a href="https://github.com/gouravpandey009"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
-</p>
+Software Development Engineer with experience building scalable backend systems, real-time applications, and production-grade SaaS platforms.
+
+Currently working at Sunstone, focusing on backend architecture, system design fundamentals, and mentoring students for technical interviews.
+
+Previously worked on real-time consultation platforms, GST billing systems, and collaborative applications using modern full-stack technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## Skills
+
+Languages: C++, JavaScript, TypeScript, Python, SQL
+Backend: Node.js, Express.js, Django, FastAPI
+Frontend: React.js, Next.js
+Databases: MongoDB, PostgreSQL, MySQL, Redis
+Tools: AWS, Docker, Git, Linux
+
+---
+
+## GitHub Metrics
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,nodejs,react,nextjs,django,fastapi,mongodb,postgres,aws,docker,git" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=gouravpandey009&show_icons=true&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravpandey009&layout=compact&hide_border=true" height="170"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gouravpandey009&show_icons=true&theme=radical&hide_border=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gouravpandey009&theme=radical&hide_border=true" height="180"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravpandey009&layout=compact&theme=radical&hide_border=true" height="150"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gouravpandey009&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 Achievements
+## Selected Work
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gouravpandey009&theme=radical&no-frame=true&margin-w=8"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+* Real-time Consultation Platform (Django, WebRTC, AWS)
+* GST Billing SaaS Platform (Next.js, Node.js, MongoDB)
+* Collaborative Document Editor (Next.js, Firebase)
+* Online Code Editor with Execution Engine
 
 ---
 
-## 📈 Contribution Graph
+## Contact
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gouravpandey009&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
-## 🔥 Top Repositories
-
-<p align="center">
-<a href="https://github.com/gouravpandey009">
-<img src="https://github-contributor-stats.vercel.app/api?username=gouravpandey009&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</a>
-</p>
-
----
-
-## ✍️ Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=gouravpandey009&label=Profile%20views&color=brightgreen&style=flat" />
-</p>
-
----
-
-## ⚡ Fun Fact
-
-💥 I build systems, teach DSA, and push code **every single day**
+Email: [pandeygourav09@gmail.com](mailto:pandeygourav09@gmail.com)
+LinkedIn: https://linkedin.com/in/gouravpandey09
 
 ---
