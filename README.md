@@ -1,7 +1,7 @@
 # Gourav Pandey
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Gourav+Pandey;Software+Development+Engineer;Backend+Systems+Engineer;DSA+Mentor+%40+Sunstone;Building+Scalable+Distributed+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Gourav+Pandey;Software+Development+Engineer;Backend+Systems+Engineer;SDE+%2B+Mentor+%40+Sunstone;Building+Scalable+Distributed+Systems" />
 </p>
 
 <p align="center">
