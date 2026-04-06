@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/SaaS-Platforms-blueviolet?style=flat"/>
 </p>
 
----
 
 ## About
 
@@ -19,15 +18,11 @@ Software Development Engineer focused on building scalable backend systems, real
 
 Currently working at Sunstone, as a SDE and mentoring students in Data Structures, System Design, and industry-level problem solving.
 
----
-
 ## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,java,nodejs,express,react,nextjs,django,fastapi,mongodb,postgres,mysql,redis,firebase,aws,docker,linux,git,github" />
 </p>
-
----
 
 ## Engineering Metrics
 
@@ -35,15 +30,11 @@ Currently working at Sunstone, as a SDE and mentoring students in Data Structure
   <img src="https://streak-stats.demolab.com?user=gouravpandey009&theme=dark&hide_border=true"/>
 </p>
 
----
-
 ## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gouravpandey009&theme=github-dark&hide_border=true&area=true"/>
 </p>
-
----
 
 ## Key Projects
 
@@ -51,8 +42,6 @@ Currently working at Sunstone, as a SDE and mentoring students in Data Structure
 * GST Billing SaaS Platform (Next.js, Node.js, MongoDB)
 * Collaborative Document Editor (Next.js, Firebase)
 * Online Code Editor with Execution Engine
-
----
 
 ## Connect
 
