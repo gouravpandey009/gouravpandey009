@@ -20,14 +20,6 @@ Tools: AWS, Docker, Git, Linux
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gouravpandey009&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&cache_seconds=86400" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravpandey009&layout=compact&hide_border=true&theme=github_dark&cache_seconds=86400" height="170"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com?user=gouravpandey009&theme=dark&hide_border=true"/>
 
 </p>
