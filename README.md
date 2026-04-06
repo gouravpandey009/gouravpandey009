@@ -6,9 +6,7 @@ Software Development Engineer | Backend Engineer | DSA Mentor
 
 Software Development Engineer with experience building scalable backend systems, real-time applications, and production-grade SaaS platforms.
 
-Currently working at Sunstone, focusing on backend architecture, system design fundamentals, and mentoring students for technical interviews.
-
-Previously worked on real-time consultation platforms, GST billing systems, and collaborative applications using modern full-stack technologies.
+Currently working at Sunstone, focusing on backend architecture and mentoring students for technical interviews.
 
 ## Skills
 
@@ -22,15 +20,15 @@ Tools: AWS, Docker, Git, Linux
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gouravpandey009&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gouravpandey009&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=86400" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravpandey009&layout=compact&hide_border=true&langs_count=6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravpandey009&layout=compact&hide_border=true&cache_seconds=86400" height="170"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=gouravpandey009&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=gouravpandey009&hide_border=true&cache_seconds=86400"/>
 
 </p>
 
