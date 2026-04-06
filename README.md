@@ -41,24 +41,19 @@ Tools: AWS, Docker, Git, Linux
 
 ## Contact
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:pandeygourav09@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
-&nbsp;&nbsp;
-<a href="mailto:pandeygourav09@gmail.com">pandeygourav09@gmail.com</a>
 
-<br><br>
+    
 
-<a href="https://linkedin.com/in/gouravpandey09">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+<a href="https://linkedin.com/in/gouravpandey09" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/gouravpandey09">linkedin.com/in/gouravpandey09</a>
 
 </p>
-
 
 ## Note
 
