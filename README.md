@@ -1,6 +1,6 @@
 # Gourav Pandey
 
-Software Development Engineer | Backend Engineer | DSA Mentor
+Software Development Engineer | Backend Engineer | DSA Mentor @Sunstone 
 
 ## About
 
@@ -41,9 +41,25 @@ Tools: AWS, Docker, Git, Linux
 
 ## Contact
 
-Email: [pandeygourav09@gmail.com](mailto:pandeygourav09@gmail.com)
-LinkedIn: https://linkedin.com/in/gouravpandey09
+<p align="left">
+
+<a href="mailto:pandeygourav09@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:pandeygourav09@gmail.com">pandeygourav09@gmail.com</a>
+
+<br><br>
+
+<a href="https://linkedin.com/in/gouravpandey09">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/gouravpandey09">linkedin.com/in/gouravpandey09</a>
+
+</p>
+
 
 ## Note
 
-Consistently building, teaching, and shipping production-grade systems with a focus on scalability and clean architecture.
+Consistently building, teaching, and shipping production grade systems with a focus on scalability and clean architecture.
